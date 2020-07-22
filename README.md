@@ -5,7 +5,7 @@
 + Parte 01
 	+ Hola Mundo
 	+ Tipos de datos - Números y Strings
-	+ Tipo de dato - Booleanos y condiciones
+	+ Tipos de datos - Booleanos y condiciones
 
 + Parte 02
 	+ Tipo de dato - Lista
